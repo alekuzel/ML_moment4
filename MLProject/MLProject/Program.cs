@@ -13,7 +13,7 @@ internal class Program
         {
             // write the following instructive text in console
             Console.WriteLine("                        ************                            ");
-            Console.WriteLine("     Hi there! Here you may write what do you think about our restaurant.       ");
+            Console.WriteLine("Hi there! Here you may write what do you think about our restaurant.       ");
             Console.WriteLine("Type \"bye\" if you want to terminate the program");
 
             //store the user input in the earlier created variable
